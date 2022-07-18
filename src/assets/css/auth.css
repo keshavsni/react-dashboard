@@ -1,0 +1,5 @@
+.auth-bg{
+        opacity: 0px;
+        background: lightblue url("https://picsum.photos/1420/768") no-repeat fixed center;
+        background-size: cover;
+      }
